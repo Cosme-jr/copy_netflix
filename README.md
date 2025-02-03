@@ -1,5 +1,5 @@
 # Clonagem da página  Netflix.
-## Copiando uma págiana da NetFlix do zero.
+## Copiando uma págiana da Netflix do zero.
 
 ### Link do Vercel:
  https://vercel.com/cosme-jrs-projects/copy-netflix/D89cpHcLXN3qVExVD9xXLk63rLzK
